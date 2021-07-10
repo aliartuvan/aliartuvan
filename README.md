@@ -8,7 +8,7 @@
 
 <p align ="center">
  <a href ="https://www.linkedin.com/in/ali-artuvan-7831681b4/" target ="_blank"> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
- <a href ="https://discord.com/" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/discord-logo--v2.png"/> aliartuvan#7500</a> </p></a> 
+
  
  
  
